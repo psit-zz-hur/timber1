@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "TimberSeg",
+      "tensorShape": [
+        174,
+        1280
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/USER/REPO/main/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/USER/REPO/main/metadata.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/USER/REPO/main/sprite.jpg",
+        "singleImageDim": [
+          100,
+          100
+        ]
+      }
+    }
+  ]
+}
