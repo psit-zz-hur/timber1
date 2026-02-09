@@ -6,10 +6,10 @@
         174,
         1280
       ],
-      "tensorPath": "https://raw.githubusercontent.com/USER/REPO/main/embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/USER/REPO/main/metadata.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/psit-zz-hur/timber1/main/embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/psit-zz-hur/timber1/main/metadata.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/USER/REPO/main/sprite.jpg",
+        "imagePath": "https://raw.githubusercontent.com/psit-zz-hur/timber1/main/sprite.jpg",
         "singleImageDim": [
           100,
           100
